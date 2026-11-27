@@ -36,3 +36,9 @@
 
 ## Qué requiere intervención
 - Permiso de red para `kick.com` (y, si hace falta, el host de vídeo que use Kick), o bien los archivos originales aportados por el usuario.
+
+## Actualización 2026-11-27 — instalaciones realizadas
+- Entorno Python: `/root/venv-clipboom` con faster-whisper, opencv-python-headless 5.1.0, scenedetect 0.7.3, pytesseract, numpy, pillow.
+- Tesseract 5.3.4 con idiomas eng, spa y osd (apt).
+- **faster-whisper: instalado, pero el modelo no se puede descargar.** El proxy devuelve 403 para huggingface.co. Transcripción bloqueada hasta permitir ese host o aportar los modelos en disco.
+- yt-dlp: no instalado a propósito (sin uso hasta confirmar método de obtención).
