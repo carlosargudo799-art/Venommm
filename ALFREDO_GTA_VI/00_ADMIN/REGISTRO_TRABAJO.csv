@@ -5,3 +5,4 @@ fecha_hora,tarea,archivo_o_vod,resultado,estado,error_o_bloqueo,proxima_accion
 2026-11-27T00:00,Comprobación de disponibilidad de VOD,https://kick.com/alfredovlza/videos,No accesible,BLOQUEADO,HTTP 403 del proxy de salida (CONNECT tunnel failed),Solicitar permiso de red para kick.com o archivos originales
 2026-11-27T00:00,Obtención de directos originales,01_DIRECTOS_ORIGINALES/,Ningún archivo descargado,BLOQUEADO,Depende del acceso a Kick,Ver PENDIENTES_Y_PERMISOS.md
 2026-11-27T00:00,Propuesta de cambio de red (kick.com),entorno personal,Rechazada por el usuario,BLOQUEADO,Red sin acceso a kick.com,Esperar archivos originales o nueva decisión del usuario
+2026-11-27T00:00,Conexión de cuenta TikTok de publicación,@alfredovalenzuela.clips,Conectada y confirmada por el usuario,COMPLETADO,,Esperar recorte del directo 23-nov

@@ -17,3 +17,10 @@
 ## Actualización 2026-11-27
 - Se propuso crear un entorno personal con `kick.com` permitido. **El usuario lo rechazó.** No se volverá a proponer sin que lo pida.
 - Para avanzar sin Kick hace falta: (a) aportar los archivos originales, o (b) decidir si se permite el acceso a `kick.com` por otra vía.
+
+## Actualización 2026-11-27 — cuenta de publicación
+- Cuenta de TikTok para publicar (creada por el usuario, conectada en Windsor): **@alfredovalenzuela.clips**. Confirmada por el usuario.
+- Cada publicación etiqueta exclusivamente a @vipalfredovlza (sin enlaces, sin «Instagram» en TikTok, sin tocar perfil ni biografía).
+- Publicación solo con autorización expresa por clip, tras control de calidad.
+- Cuenta «Venom» también conectada en Windsor: no se usa para esta campaña salvo que el usuario lo indique.
+- Pendiente bloqueante: recorte del directo del 23 de noviembre (5 GB, no subido aún).
